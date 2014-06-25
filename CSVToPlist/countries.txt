@@ -1,0 +1,10 @@
+1876;JM;Jamaica
+1869;KN;Saint Kitts & Nevis
+1868;TT;Trinidad & Tobago
+1784;VC;Saint Vincent & the Grenadines
+1767;DM;Dominica
+1758;LC;Saint Lucia
+1721;SX;Sint Maarten
+1684;AS;American Samoa
+1671;GU;Guam
+1;US;United States
